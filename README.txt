@@ -1,0 +1,1 @@
+This is the second project for my Online Markets class. I have realized that the project report should be self explantory, so go there for an explanation as to what this is. Also, the link to the coinbase data in the report is broken, but the data is in this repository.
